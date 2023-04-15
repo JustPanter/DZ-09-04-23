@@ -1,0 +1,5 @@
+D:\Обучение\DZ-09-04-23\3 Zada4a\obj\Debug\net6.0\3 Zada4a.csproj.AssemblyReference.cache
+D:\Обучение\DZ-09-04-23\3 Zada4a\obj\Debug\net6.0\3 Zada4a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\DZ-09-04-23\3 Zada4a\obj\Debug\net6.0\3 Zada4a.AssemblyInfoInputs.cache
+D:\Обучение\DZ-09-04-23\3 Zada4a\obj\Debug\net6.0\3 Zada4a.AssemblyInfo.cs
+D:\Обучение\DZ-09-04-23\3 Zada4a\obj\Debug\net6.0\3 Zada4a.csproj.CoreCompileInputs.cache
